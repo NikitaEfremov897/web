@@ -1,0 +1,9 @@
+body {
+    background-color: lightgray;
+}
+ul li {
+    color: blue;
+}
+ol li {
+    font-size: 1.2em;
+}
