@@ -1,0 +1,18 @@
+.page {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+
+.color-text {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.color-select {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+}
