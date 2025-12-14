@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.result {
+  font-size: 18px;
+  padding: 12px;
+  background-color: #f9f9f9;
+  border-left: 4px solid #007bff;
+}
